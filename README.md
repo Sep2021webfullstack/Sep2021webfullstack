@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello TEam , please add all ur email id's here ,and please dont delete existing email id's
+Hello TEam , please add all ur email id's here ( IN EACH LINE ADD UR EMAIL ID) ,and please dont delete existing email id's
 sep2021webfullstack@gmail.com 
+
+
+
+
+
+
 
 
 
