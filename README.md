@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Hello TEam , please add all ur email id's here ( IN EACH LINE ADD UR EMAIL ID) ,and please dont delete existing email id's
 sep2021webfullstack@gmail.com 
 jayadeepchandra6777@gmail.com
+anusha.sadu91@gmail.com
 
 
 
